@@ -5,3 +5,7 @@ body {
 h2 {
     text-align: left;
 }
+img {
+    width: 55px;
+ /* height will be auto-adjusted */
+}
