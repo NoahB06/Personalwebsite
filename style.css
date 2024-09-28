@@ -7,5 +7,5 @@ h2 {
 }
 img {
     width: 55px;
- /* height will be auto-adjusted */
+    height: 55px;
 }
