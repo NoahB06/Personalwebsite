@@ -8,10 +8,6 @@ img {
     height: 250px;
     border-radius: 20%;
 }
-p {
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;
-}
 .imtip {
     position: absolute;
     bottom: 0;
@@ -21,9 +17,11 @@ p {
     position: relative;
     display: inline;
   }
-  .overlaytext {
+  p {
     font-size: 25px; 
     margin-top: -33px; 
     color: white; 
     margin-left: 37px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
   }
