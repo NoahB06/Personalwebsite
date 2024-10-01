@@ -19,9 +19,9 @@ img {
   }
   p {
     font-size: 25px; 
-    margin-top: -33px; 
+    margin-top: -32px; 
     color: white; 
     margin-left: 37px;
-    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
   }
