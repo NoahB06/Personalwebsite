@@ -17,3 +17,13 @@ p {
     bottom: 0;
     right: 0;
   }
+  div {
+    position: relative;
+    display: inline;
+  }
+  .overlaytext {
+    font-size: 25px; 
+    margin-top: -33px; 
+    color: white; 
+    margin-left: 37px;
+  }
