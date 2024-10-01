@@ -1,7 +1,7 @@
 body {
     background-color: rgb(32, 32, 32);
     color:white;
-    font-family: 'Courier New', Courier, monospace
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 img {
     width: 250px;
@@ -9,6 +9,6 @@ img {
     border-radius: 20%;
 }
 p {
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
 }
