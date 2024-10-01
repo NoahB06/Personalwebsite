@@ -8,6 +8,6 @@ img {
     border-radius: 20%;
 }
 h1 {
-    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: black;
 }
