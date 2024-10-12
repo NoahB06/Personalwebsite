@@ -29,3 +29,9 @@ img {
     margin-left: auto;
     margin-right: auto;
   }
+  hr{
+    transform: rotate(45deg);
+    width: 5px;
+       height: 100px;
+       background: white
+  }
