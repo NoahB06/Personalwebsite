@@ -30,8 +30,7 @@ img {
     margin-right: auto;
   }
   hr{
-    transform: rotate(45deg);
-    width: 5px;
-       height: 100px;
-       background: white
+    transform: rotate (45deg);
+    width: 100px;
+    background: white
   }
