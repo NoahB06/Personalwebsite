@@ -30,4 +30,10 @@ img {
     margin-right: auto;
   }
 
-
+  hr{
+    transform: rotate(45deg);
+    width: 100px;
+    height: 2.5px;
+    background: white;
+    
+ }
