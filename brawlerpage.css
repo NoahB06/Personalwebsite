@@ -36,3 +36,15 @@ img {
     height: 2.5px;
     background: white;
  }
+
+ hr1{
+  transform: rotate(145deg);
+  width: 25px;
+  height: 2.5px;
+  background: white;
+ }
+ hr2{
+  width: 25px;
+  height: 2.5px;
+  background: white;
+ }
