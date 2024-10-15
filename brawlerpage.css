@@ -32,8 +32,7 @@ img {
 
   hr{
     transform: rotate(45deg);
-    width: 100px;
+    width: 25px;
     height: 2.5px;
     background: white;
-    
  }
